@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Elsevier on various NLP tasks
-- 🤓 I’m leading [mlcourse.ai](https://mlcourse.ai), and open Machine Learning course
+- 🤓 I’m leading [mlcourse.ai](https://mlcourse.ai) – an open Machine Learning course
 - 💬 Ask me about teaching Machine Learning
 - 📫 How to reach me: [yorko.github.io](https://yorko.github.io)
 
