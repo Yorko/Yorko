@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Elsevier on various NLP tasks
+- 🔭 I’m currently working at RELX on various NLP tasks
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Elsevier on various NLP tasks
+- 🔭 I’m currently working at RELX on various NLP tasks
 - 🤓 I’m leading [mlcourse.ai](https://mlcourse.ai) – an open Machine Learning course
 - 💬 Ask me about teaching Machine Learning
 - 📫 How to reach me: [yorko.github.io](https://yorko.github.io)
@@ -32,5 +32,5 @@ Born in Russia, made a world around living 4 years in Israel and 1.5 years in Ca
 - Jan 2017 - Jun 2018. Worked as a Data Scientist @ Russian IT giant Mail.Ru Group 
 - Jun 2018 - Apr 2020. Worked as a Data Scientist focusing on NLP @ KPN, the Netherlands
 - 2017 - curr. Leading open Machine Learning course [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse)
-- Apr 2020 - curr. Working as a Senior ML Scientist focusing on NLP @ Elsevier, the Netherlands
+- Apr 2020 - curr. Working as a Senior ML Scientist focusing on NLP @ RELX, the Netherlands
 
