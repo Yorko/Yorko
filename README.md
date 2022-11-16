@@ -32,5 +32,5 @@ In a team project, I lead the development of a cryptonews sentiment barometer th
 
 ## 🤝 Connect with me
 
-[![Blog]([[https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/yorko-blog-brightgreen)](https://img.shields.io/badge/yorko-blog-brightgreen))](https://yorko.github.io/) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashnitskiy/) [![twitter](https://img.shields.io/twitter/follow/ykashnitsky?style=social)](https://twitter.com/ykashnitsky) 
+[![Blog]([[https://img.shields.io/badge/yorko-blog-brightgreen](https://img.shields.io/badge/yorko-blog-brightgreen)](https://img.shields.io/badge/yorko-blog-brightgreen))](https://yorko.github.io/) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashnitskiy/) [![twitter](https://img.shields.io/twitter/follow/ykashnitsky?style=social)](https://twitter.com/ykashnitsky) 
 
