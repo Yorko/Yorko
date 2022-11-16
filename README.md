@@ -1,23 +1,8 @@
-<!--
-### Hi there 👋
-**Yorko/Yorko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at RELX on various NLP tasks
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi, I'm Yury 👋
-- 🔭 I’m currently working at RELX as a Principal Machine Learning Scientist
+- 🔭 I’m currently working at RELX as a Principal Machine Learning Scientist in Research Integrity
 - 🤓 I’m leading [mlcourse.ai](https://mlcourse.ai) – an open Machine Learning course
 - got a Ph.D. degree in applied mathematics
+- I'm [blogging](https://yorko.github.io/) about machine learning, mathematics, quantum computation, career development, programming, soft skills, popular science and anything else that I find exciting
 - can also brag about my Kaggle Competitions Master title, [Kaggle profile](https://www.kaggle.com/kashnitsky)
 - my team won the 1st place in Google's Kaggle [competition](https://www.kaggle.com/competitions/google-quest-challenge) on natural text comments classification
 - YouTube channel views: [![YouTube](https://img.shields.io/youtube/channel/views/UCgGADKKGalfwSNbpSyM5ryg?style=social)](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
@@ -47,5 +32,5 @@ In a team project, I lead the development of a cryptonews sentiment barometer th
 
 ## 🤝 Connect with me
 
-[![Website](https://img.shields.io/badge/yorko-personal%20site-green)](https://yorko.github.io) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashnitskiy/) [![twitter](https://img.shields.io/twitter/follow/ykashnitsky?style=social)](https://twitter.com/ykashnitsky) 
+[![Blog]([[https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/yorko-blog-brightgreen)](https://img.shields.io/badge/yorko-blog-brightgreen))](https://yorko.github.io/) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashnitskiy/) [![twitter](https://img.shields.io/twitter/follow/ykashnitsky?style=social)](https://twitter.com/ykashnitsky) 
 
