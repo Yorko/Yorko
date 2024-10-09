@@ -1,5 +1,5 @@
 ### Hi, I'm Yury 👋
-- 🔭 I’m currently working at RELX as a Principal Machine Learning Scientist in Research Integrity
+- 🔭 I’m currently working at Google Cloud as a Staff GenAI Field Solution Architect
 - 🤓 I’m leading [mlcourse.ai](https://mlcourse.ai) – an open Machine Learning course
 - got a Ph.D. degree in applied mathematics
 - I'm [blogging](https://yorko.github.io/) about machine learning, mathematics, quantum computation, career development, programming, soft skills, popular science and anything else that I find exciting
@@ -17,7 +17,8 @@ Born in Russia, made a world around living 4 years in Israel and 1.5 years in Ca
 - Jan 2017 - Jun 2018. Worked as a Data Scientist @ Russian IT giant Mail.Ru Group 
 - Jun 2018 - Apr 2020. Worked as a Data Scientist focusing on NLP @ KPN, the Netherlands
 - 2017 - curr. Leading open Machine Learning course [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse)
-- Apr 2020 - curr. Working as a Principal ML Scientist focusing on NLP @ RELX, the Netherlands
+- Apr 2020 - Worked as a Principal ML Scientist focusing on NLP and Research Integrity @ Elsevier, the Netherlands
+- Jun 2024 – curr. Working as a Staff GenAI Field Solution Architect @ Google Cloud 
 
 
 ## 🐶 Pet-projects
@@ -28,7 +29,7 @@ Born in Russia, made a world around living 4 years in Israel and 1.5 years in Ca
 
 [mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by OpenDataScience (ods.ai), led by me. In 2017-2019, I've been leading active session of the course, offering essential theoretical ground and a ton of practice (assignments, Kaggle Inclass competitions, projects, etc.). All for free.  Some 26k people participated, ~1500 finished the course, I got dozens of direct messages on how passing the course changed careers of [mlcourse.ai](https://mlcourse.ai) alumni. Right now, the course in a self-paced mode, still has much to offer.  
 
-### [Cryptobarometer.org](https://cryptobarometer.org/)
+### Cryptobarometer
 
 <img src="https://habrastorage.org/webt/fo/we/-_/fowe-_lvhbcwlju8aouzkelnwcy.png" />
 
