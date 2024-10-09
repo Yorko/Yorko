@@ -17,7 +17,7 @@ Born in Russia, made a world around living 4 years in Israel and 1.5 years in Ca
 - Jan 2017 - Jun 2018. Worked as a Data Scientist @ Russian IT giant Mail.Ru Group 
 - Jun 2018 - Apr 2020. Worked as a Data Scientist focusing on NLP @ KPN, the Netherlands
 - 2017 - curr. Leading open Machine Learning course [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse)
-- Apr 2020 - Worked as a Principal ML Scientist focusing on NLP and Research Integrity @ Elsevier, the Netherlands
+- Apr 2020 – Jun 2024. Worked as a Principal ML Scientist focusing on NLP and Research Integrity @ Elsevier, the Netherlands
 - Jun 2024 – curr. Working as a Staff GenAI Field Solution Architect @ Google Cloud 
 
 
